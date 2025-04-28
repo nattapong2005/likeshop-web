@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'PrachasonNeue-Regular';
+  src: url('./font/PrachasonNeue-Regular.otf');
+}
+
+@font-face {
+  font-family: 'PrachasonNeue-Bold';
+  src: url('./font/PrachasonNeue-Bold.otf');
+}
+
+* {
+  font-family: "PrachasonNeue-Regular";
+}
+
+h1 {
+  
+}
